@@ -62,7 +62,7 @@ _Computers and Electronics in Agriculture_
 
 ## Research Experience
 
-### **UAV-based 5G Base Station Fault Detection** `2020.9 -`
+### **UAV-based 5G Base Station Fault Detection** `2020.11 -`
 
 _Use the drone to fly around the 5g base station to detect whether the base station has damaged parts and whether there are debris that interferes with the normal operation of the base station._
 
@@ -78,7 +78,7 @@ Using deep reinforcement learning algorithm DQN to extract the Chinese Character
 
 <br>
 
-### **Self-driving Car Construction and Research**  `2020.12 -`
+### **Self-driving Car Construction and Research**  `2020.9 -`
 
 _This project is about building up a self-driving car for developing an intelligent algorithm._
 
