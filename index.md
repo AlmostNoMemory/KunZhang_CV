@@ -40,7 +40,12 @@ Shanghai, China
 
 
 ## Research interests
+
 Reinforcement Learning
+
+Causality in Machine Learning
+
+
 
 
 ## Publications
@@ -61,16 +66,22 @@ _Computers and Electronics in Agriculture_<br>
 ### **UAV-based 5G Base Station Fault Detection** `2020.9 -`
 
 _Research Intern_<br>
-I devepoled the
+Developed a drone flight algorithm that automatically circumnavigates the 5G Base Station. All the data capture by the drone then will be stored in the cloud and be processed by deep learning fault detection algorithm.
 
+<br>
 
+### **Chinese Character Extraction Based on Reinforcement Learning**  `2020.10 -`
+Using deep reinforcement learning algorithm such as DQN to extrate the Chinese Character. Design the reward function and conduct the experiment of training DQN agent.
+
+<br>
 
 ### **Robot-based human-computer interaction system for autistic children** `2020.6 - 2020.9`
-_The project designed a robot that can interact with autistic children based on their expressions and movements_
+_The project designed a robot that can interact with autistic children based on their expressions and movements._
 
-I am responsible for the facial expression recognition function of autistic children and the communication between the robot and the recognition system.
+I devepoled the facial expression recognition function of autistic children and the communication function between the robot and the recognition system.
 
 
+<br>
 
 ### **Mushroom size automatic calculation website**  `2019.6 - 2019.8`
 Designed a picture-based size calculation algorithm, built up a website where users upload photos of mushrooms, and the feature size can be automatically calculated.
@@ -79,10 +90,20 @@ Designed a picture-based size calculation algorithm, built up a website where us
 <br>
 
 
+
+## Research Skills
+Familiar with machine learning theory
+
+
+
+<br>
+
 ## Honors & Awards
 
 15th China Graduate Electronic Design Competition  `2020.8` <br>
+China-US Young Maker Competition `2020.6` <br>
 14th China Graduate Electronic Design Competition  `2019.9` <br>
+Innovation and Entrepreneurship Competition of ECNU  `2017.8` <br>
 
 ---
 
