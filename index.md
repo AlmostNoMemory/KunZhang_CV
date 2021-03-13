@@ -4,7 +4,6 @@ title: personal cv
 email: isKunZhang@outlook.com
 phone: +86 15802199376
 ---
-
 # Kun **Zhang**
 
 <!--
@@ -64,26 +63,31 @@ _Computers and Electronics in Agriculture_
 ## Research Experience
 
 ### **UAV-based 5G Base Station Fault Detection** `2020.9 -`
+_Use the drone to fly around the 5g base station to detect whether the base station has damaged parts and whether there are debris that interferes with the normal operation of the base station._
 
-Developed a drone flight algorithm that automatically circumnavigates the 5G Base Station. All the data capture by the drone then will be stored in the cloud and be processed by deep learning fault detection algorithm.
+> Developed a drone flight algorithm that automatically circumnavigates the 5G Base Station. All the data capture by the drone then will be stored in the cloud and be processed by deep learning fault detection algorithm.
 
 <br>
 
 ### **Chinese Character Extraction Based on Reinforcement Learning**  `2020.10 -`
-Using deep reinforcement learning algorithm DQN to extract the Chinese Character. Design the reward function and conduct the experiment of training DQN agent.
+_This project designed a robot that can interact with autistic children based on their expressions and movements._
+> Using deep reinforcement learning algorithm DQN to extract the Chinese Character. Design the reward function and conduct the experiment of training DQN agent.
+
+
+### **Self-driving Car Construction and Research**  `2020.10 -`
 
 <br>
 
 ### **Robot-based human-computer interaction system for autistic children** `2020.6 - 2020.9`
-_The project designed a robot that can interact with autistic children based on their expressions and movements._
+_This project designed a robot that can interact with autistic children based on their expressions and movements._
 
-I devepoled the facial expression recognition function of autistic children and the communication function between the robot and the recognition system.
+>Devepoled the facial expression recognition function of autistic children and the communication function between the robot and the recognition system.
 
 
 <br>
 
 ### **Mushroom size automatic calculation website**  `2019.6 - 2019.8`
-Designed a picture-based size calculation algorithm, built up a website where users upload photos of mushrooms, and the feature size can be automatically calculated.
+>Designed a picture-based size calculation algorithm, built up a website where users upload photos of mushrooms, and the feature size can be automatically calculated.
 
 
 <br>
@@ -102,6 +106,7 @@ Familiar with machine learning theory
 15th China Graduate Electronic Design Competition  `2020.8` <br>
 China-US Young Maker Competition `2020.6` <br>
 14th China Graduate Electronic Design Competition  `2019.9` <br>
+Robomaster 2019 Individual event                   `2019.6` <br>
 Innovation and Entrepreneurship Competition of ECNU  `2017.8` <br>
 
 ---
