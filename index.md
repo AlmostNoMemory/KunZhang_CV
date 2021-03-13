@@ -2,7 +2,7 @@
 layout: cv
 title: personal cv
 email:
-  url: isKunZhang@outlook.com  
+    isKunZhang@outlook.com  
 phone:
     +86 15802199376
 ---
