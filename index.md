@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: personal cv
-email: mailto:isKunZhang@outlook.com
+email: isKunZhang@outlook.com
 phone: +86 15802199376
 ---
 
