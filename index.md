@@ -1,10 +1,8 @@
 ---
 layout: cv
 title: personal cv
-email:
-    isKunZhang@outlook.com  
-phone:
-    +86 15802199376
+email: isKunZhang@outlook.com  
+phone: +86 15802199376
 ---
 
 # Kun **Zhang**
@@ -65,7 +63,6 @@ _Computers and Electronics in Agriculture_<br>
 
 ### **UAV-based 5G Base Station Fault Detection** `2020.9 -`
 
-_Research Intern_<br>
 Developed a drone flight algorithm that automatically circumnavigates the 5G Base Station. All the data capture by the drone then will be stored in the cloud and be processed by deep learning fault detection algorithm.
 
 <br>
