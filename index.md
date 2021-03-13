@@ -63,6 +63,7 @@ _Computers and Electronics in Agriculture_
 ## Research Experience
 
 ### **UAV-based 5G Base Station Fault Detection** `2020.9 -`
+
 _Use the drone to fly around the 5g base station to detect whether the base station has damaged parts and whether there are debris that interferes with the normal operation of the base station._
 
 Developed a drone flight algorithm that automatically circumnavigates the 5G Base Station. All the data capture by the drone then will be stored in the cloud and be processed by deep learning fault detection algorithm.
@@ -70,6 +71,7 @@ Developed a drone flight algorithm that automatically circumnavigates the 5G Bas
 <br>
 
 ### **Chinese Character Extraction Based on Reinforcement Learning**  `2020.10 -`
+
 _This project designed a robot that can interact with autistic children based on their expressions and movements._
 
 Using deep reinforcement learning algorithm DQN to extract the Chinese Character. Design the reward function and conduct the experiment of training DQN agent.
@@ -77,14 +79,18 @@ Using deep reinforcement learning algorithm DQN to extract the Chinese Character
 <br>
 
 ### **Self-driving Car Construction and Research**  `2020.12 -`
+
 _This project is about building up a self-driving car for developing an intelligent algorithm._
+
 Responsible for the overall construction of the vehicle, including the chassis part and various sensors: lidar, depth camera, imu and gps. Based on ros, integrated a series of functions such as chassis communication, chassis control, and sensor data acquisition.
 
 
 <br>
 
 ### **Robot-based human-computer interaction system for autistic children** `2020.6 - 2020.9`
+
 _This project designed a robot that can interact with autistic children based on their expressions and movements._
+
 Devepoled the facial expression recognition function of autistic children and the communication function between the robot and the recognition system.
 
 
