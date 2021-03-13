@@ -35,7 +35,8 @@ Shanghai, China
 
 - B.S.  Major in Microelectronics Science and Engineering
 - Minor in Applied Psychology
-
+- 
+<br>
 
 ## Research interests
 
@@ -58,6 +59,7 @@ _Computers and Electronics in Agriculture_<br>
 [[www](http://penrose.ink/siggraph20.html)]
 [[repo](https://github.com/penrose/penrose)]-->
 
+<br>
 
 ## Research Experience
 
@@ -68,7 +70,7 @@ Developed a drone flight algorithm that automatically circumnavigates the 5G Bas
 <br>
 
 ### **Chinese Character Extraction Based on Reinforcement Learning**  `2020.10 -`
-Using deep reinforcement learning algorithm such as DQN to extract the Chinese Character. Design the reward function and conduct the experiment of training DQN agent.
+Using deep reinforcement learning algorithm DQN to extract the Chinese Character. Design the reward function and conduct the experiment of training DQN agent.
 
 <br>
 
