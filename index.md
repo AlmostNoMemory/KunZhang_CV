@@ -34,7 +34,7 @@ Shanghai, China
 
 - B.S.  Major in Microelectronics Science and Engineering
 - Minor in Applied Psychology
-- 
+  
 <br>
 
 ## Research interests
@@ -82,7 +82,7 @@ Using deep reinforcement learning algorithm DQN to extract the Chinese Character
 
 _This project is about building up a self-driving car for developing an intelligent algorithm._
 
-Responsible for the overall construction of the vehicle, including the chassis part and various sensors: lidar, depth camera, imu and gps. Based on ros, integrated a series of functions such as chassis communication, chassis control, and sensor data acquisition.
+Responsible for the overall construction of the vehicle, including the chassis part and various sensors: lidar, depth camera, imu and gps. Based on robot operating system, integrated a series of functions such as chassis communication, chassis control, and sensor data acquisition.
 
 
 <br>
@@ -91,13 +91,13 @@ Responsible for the overall construction of the vehicle, including the chassis p
 
 _This project designed a robot that can interact with autistic children based on their expressions and movements._
 
-Devepoled the facial expression recognition function of autistic children and the communication function between the robot and the recognition system.
+Devepoled the facial expression recognition function of autistic children using deep nerual network. Devepoled the communication function between the robot and the recognition system.
 
 
 <br>
 
 ### **Mushroom size automatic calculation website**  `2019.6 - 2019.8`
-Designed a picture-based size calculation algorithm, built up a website where users upload photos of mushrooms, and the feature size can be automatically calculated.
+Designed a picture-based size calculation algorithm. Built up a website where users upload photos of mushrooms, and the feature size of mushroom can be automatically calculated.
 
 
 <br>
