@@ -45,13 +45,13 @@ Reinforcement Learning
 Causality in Machine Learning
 
 
-
+<br>
 
 ## Publications
 
 ### [**Crop Type Recognition Of VGI Road-Side Images Via Hierarchy Structure Based On Semantic Segmentation Model Deeplabv3**](http://website-leadtopaper)  (under major revision)
 **Kun Zhang**, YingHong Tiana, Miao Zhangb, Bingfang Wu, Xingbo Hua, Yue Lua, Chaohua Yang.<br> 
-_Computers and Electronics in Agriculture_<br>
+_Computers and Electronics in Agriculture_
 
 <!-- 
 [[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
