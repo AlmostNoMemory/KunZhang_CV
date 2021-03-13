@@ -1,10 +1,7 @@
 ---
 layout: cv
 title: personal cv
-email: 
-    url: mailto:isKunZhang@outlook.com 
-    text: isKunZhang@outlook.com 
-
+email: mailto:isKunZhang@outlook.com
 phone: +86 15802199376
 ---
 
@@ -71,7 +68,7 @@ Developed a drone flight algorithm that automatically circumnavigates the 5G Bas
 <br>
 
 ### **Chinese Character Extraction Based on Reinforcement Learning**  `2020.10 -`
-Using deep reinforcement learning algorithm such as DQN to extrate the Chinese Character. Design the reward function and conduct the experiment of training DQN agent.
+Using deep reinforcement learning algorithm such as DQN to extract the Chinese Character. Design the reward function and conduct the experiment of training DQN agent.
 
 <br>
 
