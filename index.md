@@ -82,7 +82,7 @@ _Utilize the drone to fly around the 5g base station to detect whether the base 
 
 ### **Self-driving Car Research Project**  `2020.9 -`
 
-_This project is about building up a self-driving car for developing an intelligent algorithm._
+_The project built up a self-driving car for developing an intelligent algorithm._
 
 - Constructed the self-driving vehicle, including the chassis part and the connection of various sensors: lidar, depth camera, imu, and GPS. 
 - Based on **robot operating system**, developed and integrated a series of functions such as chassis communication, chassis control, and sensor data acquisition.
