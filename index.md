@@ -47,7 +47,7 @@ Causality in Machine Learning
 
 <br>
 
-## Publications
+## Journal Papers
 
 ### [**Crop Type Recognition Of VGI Road-Side Images Via Hierarchy Structure Based On Semantic Segmentation Model Deeplabv3**](http://website-leadtopaper)  (under major revision)
 **Kun Zhang**, YingHong Tiana, Miao Zhangb, Bingfang Wu, Xingbo Hua, Yue Lua, Chaohua Yang.<br> 
@@ -65,17 +65,19 @@ _Computers and Electronics in Agriculture_
 
 ### **UAV-based 5G Base Station Fault Detection** `2020.11 -`
 
-_Use the drone to fly around the 5g base station to detect whether the base station has damaged parts and whether there are debris that interferes with the normal operation of the base station._
+_Utilize the drone to fly around the 5g base station to detect whether the base station has damaged parts and whether there ar debris that interferes with the normal operation of the base station._
 
-Developed a drone flight algorithm that automatically circumnavigates the 5G Base Station. All the data capture by the drone then will be stored in the cloud and be processed by deep learning fault detection algorithm.
+- Developed the drone flight algorithm that automatically circumnavigates the 5G Base Station. 
+
+- All the data capture by the drone then will be stored in the cloud and be processed by deep learning fault detection algorithm.
 
 <br>
 
 ### **Chinese Character Extraction Based on Reinforcement Learning**  `2020.10 -`
 
-_This project designed a robot that can interact with autistic children based on their expressions and movements._
+_Research Projects:._
 
-Using deep reinforcement learning algorithm DQN to extract the Chinese Character. Design the reward function and conduct the experiment of training DQN agent.
+Using deep reinforcement learning algorithm **DQN** combine with **transformer** to extract the Chinese Character. Design the reward function and conduct the experiment of training DQN agent.
 
 <br>
 
@@ -103,22 +105,27 @@ Designed a picture-based size calculation algorithm. Built up a website where us
 
 <br>
 
+<!-- ## English Proficiency
+LELTS: (Listening , Reading, Writing , Speaking)
+
+<br> -->
 
 
-## Research Skills
+<!-- ## Research Skills
 Familiar with machine learning theory
 
+<br> -->
 
 
-<br>
 
 ## Honors & Awards
 
-15th China Graduate Electronic Design Competition  `2020.8` <br>
-China-US Young Maker Competition `2020.6` <br>
-14th China Graduate Electronic Design Competition  `2019.9` <br>
-Robomaster 2019 Individual event                   `2019.6` <br>
-Innovation and Entrepreneurship Competition of ECNU  `2017.8` <br>
+Third Prize in 15th China Graduate Electronic Design Competition of the national division `2020.10` <br>
+First Prize in 15th China Graduate Electronic Design Competition of the Shanghai division `2020.8` <br>
+Third Prize in China-US Young Maker Competition `2020.6` <br>
+Second Prize in 14th China Graduate Electronic Design Competition of the Shanghai division  `2019.9` <br>
+Third Prize in Robomaster 2019 Individual event     `2019.6` <br>
+Second Prize in the Innovation and Entrepreneurship Competition of ECNU  `2017.8` <br>
 
 ---
 
