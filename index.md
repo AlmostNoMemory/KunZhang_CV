@@ -66,7 +66,6 @@ _Computers and Electronics in Agriculture_
 ### **UAV-based 5G Base Station Fault Detection** `2020.11 -`
 
 _Utilize the drone to fly around the 5g base station to detect whether the base station has damaged parts and whether there ar debris that interferes with the normal operation of the base station._
-
 - Developed the drone flight algorithm that automatically circumnavigates the 5G Base Station. 
 - All the data capture by the drone then will be stored in the cloud and be processed by deep learning fault detection algorithm.
 
