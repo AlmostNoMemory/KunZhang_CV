@@ -44,14 +44,16 @@ Reinforcement Learning
 
 Causality in Machine Learning
 
+Practical Applications of Machine Learning
+
 
 <br>
 
 ## Journal Papers
 
-### [**Crop Type Recognition Of VGI Road-Side Images Via Hierarchy Structure Based On Semantic Segmentation Model Deeplabv3**](http://website-leadtopaper)  (under major revision)
-**Kun Zhang**, YingHong Tiana, Miao Zhangb, Bingfang Wu, Xingbo Hua, Yue Lua, Chaohua Yang.<br> 
-_Computers and Electronics in Agriculture_
+### [**Crop Type Recognition of VGI Road-Side Images via Hierarchy Structure Based on Semantic Segmentation Model Deeplabv3**](http://website-leadtopaper)  (under major revision)
+**Kun Zhang**, YingHong Tian, Miao Zhang, Bingfang Wu, Xingbo Hu, Yue Lu, Chaohua Yang.<br> 
+___Computers and Electronics in Agriculture___
 
 <!-- 
 [[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
@@ -65,49 +67,60 @@ _Computers and Electronics in Agriculture_
 
 ### **UAV-based 5G Base Station Fault Detection** `2020.11 -`
 
-_Utilize the drone to fly around the 5g base station to detect whether the base station has damaged parts and whether there ar debris that interferes with the normal operation of the base station._
+_Utilize the drone to fly around the 5g base station to detect whether the base station has damaged parts and whether there is debris that interferes with the normal operation of the base station._
 - Developed the drone flight algorithm that automatically circumnavigates the 5G Base Station. 
-- All the data capture by the drone then will be stored in the cloud and be processed by deep learning fault detection algorithm.
+- Utilized **target detection algorithm** to process the collected image, achieved the function of fault detection and anomaly detection.
 
 <br>
+
 
 ### **Chinese Character Strokes Extraction Based on Reinforcement Learning**  `2020.10 -`
-
-_Research Projects:._
-- Combined deep reinforcement learning algorithm **DQN** with **transformer** to extract the chinese character strokes by given external reward.
-- Designed the reward function and conduct the experiment of training DQN agent.
+- Combined deep reinforcement learning algorithm **DQN** with **transformer** to extract the Chinese character strokes by given external reward.
+- Designed the reward function and conducted the experiment of training DQN agent.
 
 <br>
 
-### **Self-driving Car Construction and Research**  `2020.9 -`
+### **Self-driving Car Research Project**  `2020.9 -`
 
 _This project is about building up a self-driving car for developing an intelligent algorithm._
 
-- Responsible for the overall construction of the vehicle, including the chassis part and various sensors: lidar, depth camera, imu and gps. 
-- Based on robot operating system, integrated a series of functions such as chassis communication, chassis control, and sensor data acquisition.
+- Constructed the self-driving vehicle, including the chassis part and the connection of various sensors: lidar, depth camera, imu, and GPS. 
+- Based on **robot operating system**, developed and integrated a series of functions such as chassis communication, chassis control, and sensor data acquisition.
 
 
 <br>
 
 ### **Robot-based human-computer interaction system for autistic children** `2020.6 - 2020.9`
 
-_This project designed a robot that can interact with autistic children based on their expressions and movements._
-
-- Devepoled the facial expression recognition function of autistic children using deep nerual network. 
-- Devepoled the communication function between the robot and the recognition system.
+_The project designed a robot that can interact with autistic children based on their expressions and movements and win the Third Prize in the 15th China Graduate Electronics Design Competition of the national division._
+- Developed the facial expression recognition function of autistic children using a deep neural network. 
+- Developed the communication function between the robot and the recognition system.
 
 
 <br>
 
+
+
+### **Crop Type Recognition** `2019.11 -2020.8`
+_For the purpose of saving manpower in the process of agricultural situation investigation, developed new method that can automatically classify the type of crop and estimate the proportion of every type._  ___Cooperation project with Institute of Remote Sensing, Chinese Academy of Sciences___
+- Collected existing **semantic segmentation models and theories**. 
+- Proposed two methods that improve the model's performance.
+- Trained the model to achieve the best results.
+
+<br>
+
+
+
+
 ### **Mushroom feature size automatic calculation website**  `2019.6 - 2019.8`
-- Designed a picture-based size calculation algorithm. 
-- Built up the website where users upload photos of mushrooms, and the feature size of mushroom can be automatically calculated.
+- Designed a picture-based size calculation algorithm to calculate the mushroom's feature size. 
+- Built the website where users upload photos of mushrooms and get the calculation results back.
 
 
 <br>
 
 <!-- ## English Proficiency
-LELTS: (Listening , Reading, Writing , Speaking)
+LELTS: (Listening, Reading, Writing, Speaking)
 
 <br> -->
 
@@ -121,12 +134,12 @@ Familiar with machine learning theory
 
 ## Honors & Awards
 
-Third Prize in 15th China Graduate Electronic Design Competition of the national division `2020.9` <br>
-First Prize in 15th China Graduate Electronic Design Competition of the Shanghai division `2020.8` <br>
-Third Prize in China-US Young Maker Competition `2020.6` <br>
-Second Prize in 14th China Graduate Electronic Design Competition of the Shanghai division  `2019.9` <br>
-Third Prize in Robomaster 2019 Individual event     `2019.6` <br>
-Second Prize in the Innovation and Entrepreneurship Competition of ECNU  `2017.8` <br>
+The Third Prize in 15th China Graduate Electronics Design Competition of the national division `2020.9` <br>
+The First Prize in 15th China Graduate Electronics Design Competition of the Shanghai division `2020.8` <br>
+The Third Prize in China-US Young Maker Competition `2020.6` <br>
+The Second Prize in 14th China Graduate Electronics Design Competition of the Shanghai division  `2019.9` <br>
+The Third Prize in Robomaster 2019 Individual event     `2019.6` <br>
+The Second Prize in the Innovation and Entrepreneurship Competition of ECNU  `2017.8` <br>
 
 ---
 
