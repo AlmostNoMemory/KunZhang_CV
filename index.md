@@ -71,11 +71,11 @@ _Utilize the drone to fly around the 5g base station to detect whether the base 
 
 <br>
 
-### **Chinese Character Extraction Based on Reinforcement Learning**  `2020.10 -`
+### **Chinese Character Strokes Extraction Based on Reinforcement Learning**  `2020.10 -`
 
 _Research Projects:._
-
-Using deep reinforcement learning algorithm **DQN** combine with **transformer** to extract the Chinese Character. Design the reward function and conduct the experiment of training DQN agent.
+- Combined deep reinforcement learning algorithm **DQN** with **transformer** to extract the chinese character strokes by given external reward.
+- Designed the reward function and conduct the experiment of training DQN agent.
 
 <br>
 
@@ -83,7 +83,8 @@ Using deep reinforcement learning algorithm **DQN** combine with **transformer**
 
 _This project is about building up a self-driving car for developing an intelligent algorithm._
 
-Responsible for the overall construction of the vehicle, including the chassis part and various sensors: lidar, depth camera, imu and gps. Based on robot operating system, integrated a series of functions such as chassis communication, chassis control, and sensor data acquisition.
+- Responsible for the overall construction of the vehicle, including the chassis part and various sensors: lidar, depth camera, imu and gps. 
+- Based on robot operating system, integrated a series of functions such as chassis communication, chassis control, and sensor data acquisition.
 
 
 <br>
@@ -92,13 +93,15 @@ Responsible for the overall construction of the vehicle, including the chassis p
 
 _This project designed a robot that can interact with autistic children based on their expressions and movements._
 
-Devepoled the facial expression recognition function of autistic children using deep nerual network. Devepoled the communication function between the robot and the recognition system.
+- Devepoled the facial expression recognition function of autistic children using deep nerual network. 
+- Devepoled the communication function between the robot and the recognition system.
 
 
 <br>
 
-### **Mushroom size automatic calculation website**  `2019.6 - 2019.8`
-Designed a picture-based size calculation algorithm. Built up a website where users upload photos of mushrooms, and the feature size of mushroom can be automatically calculated.
+### **Mushroom feature size automatic calculation website**  `2019.6 - 2019.8`
+- Designed a picture-based size calculation algorithm. 
+- Built up the website where users upload photos of mushrooms, and the feature size of mushroom can be automatically calculated.
 
 
 <br>
@@ -118,7 +121,7 @@ Familiar with machine learning theory
 
 ## Honors & Awards
 
-Third Prize in 15th China Graduate Electronic Design Competition of the national division `2020.10` <br>
+Third Prize in 15th China Graduate Electronic Design Competition of the national division `2020.9` <br>
 First Prize in 15th China Graduate Electronic Design Competition of the Shanghai division `2020.8` <br>
 Third Prize in China-US Young Maker Competition `2020.6` <br>
 Second Prize in 14th China Graduate Electronic Design Competition of the Shanghai division  `2019.9` <br>
