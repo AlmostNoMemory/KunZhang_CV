@@ -1,7 +1,8 @@
 ---
 layout: cv
 title: personal cv
-email: isKunZhang@outlook.com
+email: 
+    text: isKunZhang@outlook.com
 phone: +86 15802199376
 ---
 # Kun **Zhang**
@@ -37,7 +38,7 @@ Shanghai, China
   
 <br>
 
-## Research interests
+## Research Interests
 
 Reinforcement Learning
 
