@@ -131,10 +131,9 @@ Familiar with machine learning theory
 <br> -->
 
 ## Teaching Experiences 
-2019 Fall: Development Practice of Intelligent Microprocessor System, Teaching Assistant, East China Normal University <br>
-2020 Spring: Intelligent Robot Development and Application (General Education Course), Teaching Assistant, East China Normal University<br>
-2020 Fall: Embedded system development and application, Teaching Assistant, East China Normal University<br>
-2021 Spring: Intelligent Robot Development and Application (General Education Course), Teaching Assistant, East China Normal University<br>
+2019 Fall: MELE0031131886, Development Practice of Intelligent Embedded System, Teaching Assistant, East China Normal University <br>
+2020 Spring, 2021 Spring: COME0031112991, Intelligent Robot Development and Application, Teaching Assistant, East China Normal University<br>
+2020 Fall: COME0031131820, Development Practice of Intelligent Microprocessor System, Teaching Assistant, East China Normal University<br>
 
 
 ## Honors & Awards
